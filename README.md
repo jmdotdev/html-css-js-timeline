@@ -2,7 +2,7 @@
 
 # HTML-CSS-JS Timeline
 
-This project is a simple web application built using HTML, CSS, and JavaScript to display a timeline of events or steps. It can be used to visualize a sequence of activities, such as order processing, payment steps, or project milestones.
+This is a simple web application built using HTML, CSS, and JavaScript to display a timeline of events or steps. It can be used to visualize a sequence of activities, such as order processing, payment steps, or project milestones.
 
 ![Screenshot](screenshot.png)
 
